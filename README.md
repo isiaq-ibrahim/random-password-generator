@@ -28,14 +28,15 @@ def generator():
 generator()
 ```
 
-Output:
+#### Output:
 - s1 generates uppercase letters from A to Z
 - s2 generates lowercase letters from a to z
 - s3 generates digits from 0 - 9
 - s4 generates punctuations (special characters) consisting of ~`!@#$%^&*()_-+={}[]:";',./<>?
 
-
+#### Output:
 ![Screenshots](screensnaps_for_password_generator_project/s4.jpg)
+
 
 Next, I wrote a code that merges all these strings (s1,s2,s3,s4) into a single string using a single print statement. The code below will create an array list of uppercase, lowercase, digits, and special characters.
 
@@ -71,6 +72,7 @@ def generator():
 generator()
 ```
 
+#### Output:
 ![Screenshots](screensnaps_for_password_generator_project/array_list.jpg)
 
 ### Let's shuffle these strings (s1,s2,s3,s4) into a single array list (this will mix up uppercase, lowercase, digits, and special characters) using the code below.
@@ -113,6 +115,7 @@ def generator():
 generator()
 ```
 
+#### Output:
 ![Screenshots](screensnaps_for_password_generator_project/random_shuffle.jpg)
 
 
