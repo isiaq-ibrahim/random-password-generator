@@ -166,6 +166,8 @@ generator()
 
 That's it for this project. I have successfully implemented the password generator Python project.
 
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1ysQisT_vEJuBcgbhcLUQ_DJ-4r-2ZNaQ/view?usp=sharing)
+
 🌟 Contributing: Feel free to fork, improve, and submit pull requests! This is a great project to start learning Python scripting and GUI automation.
 
 📬 Contact: For questions, suggestions, or collaborations, connect with me on LinkedIn (https://www.linkedin.com/in/isiaq-ibrahim-468588156/).
