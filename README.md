@@ -35,4 +35,4 @@ Output:
 - s4 generates punctuations (special characters) consisting of ~`!@#$%^&*()_-+={}[]:";',./<>?
 
 
-[Screenshots](screensnaps_for_password_generator_project/s4.jpg)
+![Screenshots](screensnaps_for_password_generator_project/s4.jpg)
