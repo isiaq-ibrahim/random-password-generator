@@ -33,3 +33,6 @@ Output:
 - s2 generates lowercase letters from a to z
 - s3 generates digits from 0 - 9
 - s4 generates punctuations (special characters) consisting of ~`!@#$%^&*()_-+={}[]:";',./<>?
+
+
+[Screenshots](screensnaps_for_password_generator_project/s4)
